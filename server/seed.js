@@ -51,7 +51,7 @@ const initialData = {
       description: "My Professional Portfolio Website using React and Tailwind CSS.",
       tech: ["React", "Tailwind CSS", "Node.js", "Express", "MongoDB"],
       image: "https://res.cloudinary.com/dshfllkus/image/upload/v1778739183/ChatGPT_Image_May_14_2026_11_42_27_AM_tqdx9f.png",
-      links: { github: "https://github.com/Gopikrishna398/", live: "#" }
+      links: { github: "https://github.com/Gopikrishna398/MyPortfolioWebsite", live: "#" }
     }
   ],
   
